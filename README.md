@@ -1,4 +1,4 @@
-### This README.md intentionall left blank(ish). 😝
+### This README.md intentionally left blank(ish). 😝
 
 <!--
 **dtolmie/dtolmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
